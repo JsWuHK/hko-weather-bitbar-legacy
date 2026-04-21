@@ -1,4 +1,5 @@
 # HKO Weather for BitBar (Legacy macOS Fix)
+<img width="563" height="335" alt="HKO script for BitBar" src="https://github.com/user-attachments/assets/e2dfb71f-e5ea-446e-934c-bdebb65c8b50" />
 
 A lightweight Python script for **BitBar** to restore real-time weather info in the macOS menu bar.
 
